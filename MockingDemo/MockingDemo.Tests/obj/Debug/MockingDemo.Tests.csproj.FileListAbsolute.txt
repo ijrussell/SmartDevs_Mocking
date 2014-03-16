@@ -1,0 +1,13 @@
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\MockingDemo.Tests.dll
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\MockingDemo.Tests.pdb
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\FakeItEasy.dll
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\MockingDemo.dll
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\NSubstitute.dll
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\nunit.framework.dll
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\MockingDemo.pdb
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\FakeItEasy.xml
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\NSubstitute.xml
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\bin\Debug\nunit.framework.xml
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\obj\Debug\MockingDemo.Tests.csprojResolveAssemblyReference.cache
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\obj\Debug\MockingDemo.Tests.dll
+C:\Code\MockingPresentation\MockingDemo\MockingDemo.Tests\obj\Debug\MockingDemo.Tests.pdb

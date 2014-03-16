@@ -1,0 +1,4 @@
+C:\Code\MockingPresentation\MockingDemo\MockingDemo\bin\Debug\MockingDemo.dll
+C:\Code\MockingPresentation\MockingDemo\MockingDemo\bin\Debug\MockingDemo.pdb
+C:\Code\MockingPresentation\MockingDemo\MockingDemo\obj\Debug\MockingDemo.dll
+C:\Code\MockingPresentation\MockingDemo\MockingDemo\obj\Debug\MockingDemo.pdb
